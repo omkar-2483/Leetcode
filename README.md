@@ -10,6 +10,7 @@ DSA questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ DSA questions solved
 ## String
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -43,4 +45,8 @@ DSA questions solved
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
