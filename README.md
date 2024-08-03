@@ -12,6 +12,7 @@ DSA questions solved
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -102,4 +103,8 @@ DSA questions solved
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/omkar-2483/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
