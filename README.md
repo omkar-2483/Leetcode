@@ -47,6 +47,7 @@ DSA questions solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -58,6 +59,7 @@ DSA questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/omkar-2483/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 |  |
@@ -127,4 +129,5 @@ DSA questions solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
