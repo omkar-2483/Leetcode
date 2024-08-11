@@ -46,6 +46,7 @@ DSA questions solved
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
@@ -124,6 +125,7 @@ DSA questions solved
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
