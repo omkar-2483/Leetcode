@@ -6,6 +6,7 @@ DSA questions solved
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -85,6 +86,7 @@ DSA questions solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
