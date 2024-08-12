@@ -33,6 +33,7 @@ DSA questions solved
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ DSA questions solved
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/omkar-2483/DSA-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ DSA questions solved
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
