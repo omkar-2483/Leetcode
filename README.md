@@ -6,6 +6,7 @@ DSA questions solved
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ DSA questions solved
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -78,6 +80,7 @@ DSA questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
