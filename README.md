@@ -20,6 +20,7 @@ DSA questions solved
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
@@ -63,6 +64,7 @@ DSA questions solved
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ DSA questions solved
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/omkar-2483/DSA-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
@@ -161,6 +164,7 @@ DSA questions solved
 | [0039-combination-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String Matching
 |  |
 | ------- |
@@ -169,4 +173,12 @@ DSA questions solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
