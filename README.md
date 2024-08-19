@@ -16,6 +16,7 @@ DSA questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
+| [0932-monotonic-array](https://github.com/omkar-2483/DSA-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
