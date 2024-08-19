@@ -15,6 +15,7 @@ DSA questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -61,6 +62,7 @@ DSA questions solved
 | ------- |
 | [0009-palindrome-number](https://github.com/omkar-2483/DSA-questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
@@ -94,6 +96,7 @@ DSA questions solved
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
