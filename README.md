@@ -156,6 +156,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
@@ -190,4 +191,8 @@ DSA questions solved
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
