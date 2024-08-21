@@ -208,6 +208,7 @@ DSA questions solved
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/omkar-2483/DSA-questions/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omkar-2483/DSA-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
