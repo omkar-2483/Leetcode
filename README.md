@@ -36,6 +36,7 @@ DSA questions solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -104,6 +105,7 @@ DSA questions solved
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -208,6 +210,7 @@ DSA questions solved
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omkar-2483/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/omkar-2483/DSA-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
