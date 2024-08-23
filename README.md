@@ -100,6 +100,7 @@ DSA questions solved
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ DSA questions solved
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omkar-2483/DSA-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/omkar-2483/DSA-questions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
