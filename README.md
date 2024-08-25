@@ -19,6 +19,7 @@ DSA questions solved
 | [0932-monotonic-array](https://github.com/omkar-2483/DSA-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
@@ -236,4 +237,9 @@ DSA questions solved
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
