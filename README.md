@@ -242,10 +242,20 @@ DSA questions solved
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
+| [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
