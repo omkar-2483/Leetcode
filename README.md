@@ -120,6 +120,7 @@ DSA questions solved
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/omkar-2483/DSA-questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
@@ -187,6 +188,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/omkar-2483/DSA-questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/omkar-2483/DSA-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
@@ -230,6 +232,7 @@ DSA questions solved
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omkar-2483/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/omkar-2483/DSA-questions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/omkar-2483/DSA-questions/tree/master/0203-remove-linked-list-elements) |
@@ -248,6 +251,7 @@ DSA questions solved
 | ------- |
 | [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/omkar-2483/DSA-questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
