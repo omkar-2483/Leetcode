@@ -52,6 +52,7 @@ DSA questions solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/omkar-2483/DSA-questions/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
@@ -245,6 +246,7 @@ DSA questions solved
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
