@@ -11,6 +11,7 @@ DSA questions solved
 | [0039-combination-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -244,6 +245,7 @@ DSA questions solved
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
@@ -259,6 +261,7 @@ DSA questions solved
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 ## Data Stream
