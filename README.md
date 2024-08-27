@@ -29,6 +29,7 @@ DSA questions solved
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -113,6 +114,7 @@ DSA questions solved
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -265,6 +267,7 @@ DSA questions solved
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/omkar-2483/DSA-questions/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -286,5 +289,6 @@ DSA questions solved
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
