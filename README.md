@@ -274,6 +274,7 @@ DSA questions solved
 | ------- |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -285,10 +286,12 @@ DSA questions solved
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
