@@ -6,6 +6,7 @@ DSA questions solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0039-combination-sum) |
@@ -41,6 +42,7 @@ DSA questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
