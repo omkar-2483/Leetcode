@@ -30,6 +30,7 @@ DSA questions solved
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -257,6 +258,7 @@ DSA questions solved
 | [0908-middle-of-the-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omkar-2483/DSA-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/omkar-2483/DSA-questions/tree/master/1765-merge-in-between-linked-lists) |
+| [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
@@ -281,6 +283,7 @@ DSA questions solved
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -292,12 +295,14 @@ DSA questions solved
 | ------- |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
+| [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/omkar-2483/DSA-questions/tree/master/0969-number-of-recent-calls) |
+| [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
