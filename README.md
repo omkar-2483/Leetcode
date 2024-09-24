@@ -20,6 +20,7 @@ DSA questions solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/omkar-2483/DSA-questions/tree/master/0932-monotonic-array) |
@@ -51,6 +52,7 @@ DSA questions solved
 | [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -75,6 +77,7 @@ DSA questions solved
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
+| [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -195,6 +198,7 @@ DSA questions solved
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/omkar-2483/DSA-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/omkar-2483/DSA-questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
