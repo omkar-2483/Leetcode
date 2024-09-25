@@ -36,6 +36,7 @@ DSA questions solved
 | [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/omkar-2483/DSA-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -57,6 +58,7 @@ DSA questions solved
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/omkar-2483/DSA-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/omkar-2483/DSA-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -109,6 +111,7 @@ DSA questions solved
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/omkar-2483/DSA-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
