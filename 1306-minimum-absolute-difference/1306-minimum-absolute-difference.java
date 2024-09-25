@@ -4,12 +4,17 @@ class Solution {
         Arrays.sort(arr);
         int min = Integer.MAX_VALUE;
         for(int i=0; i<arr.length-1; i++){
-            min = Math.min(min, arr[i+1]-arr[i]);
+            if(Math.abs(arr[i]-arr[i+1])<min){
+                min=Math.abs(arr[i]-arr[i+1]);
+            }
         }
 
         for(int i=0; i<arr.length-1; i++){
             if(arr[i+1]-arr[i]==min){
-                ans.add(new ArrayList<Integer>(Arrays.asList(arr[i],arr[i+1])));
+                List<Integer> temp=new ArrayList<>();
+                temp.add(arr[i]);
+                temp.add(arr[i+1]);
+                ans.add(temp);
             }
         }
         return ans;
