@@ -66,6 +66,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/omkar-2483/DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/omkar-2483/DSA-questions/tree/master/0344-reverse-string) |
@@ -324,4 +325,8 @@ DSA questions solved
 | [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/omkar-2483/DSA-questions/tree/master/2195-time-needed-to-buy-tickets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/omkar-2483/DSA-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
