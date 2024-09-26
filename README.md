@@ -102,6 +102,7 @@ DSA questions solved
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/omkar-2483/DSA-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
@@ -159,6 +160,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0441-arranging-coins](https://github.com/omkar-2483/DSA-questions/tree/master/0441-arranging-coins) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
