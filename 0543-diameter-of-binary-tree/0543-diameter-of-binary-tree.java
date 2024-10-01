@@ -15,18 +15,25 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null) return 0;
-        if(root.left==null && root.right==null) return 0;
-        int ld = diameterOfBinaryTree(root.left);
-        int rd = diameterOfBinaryTree(root.right);
-        int lh = findHeight(root.left);
-        int rh = findHeight(root.right);
-        return Math.max(lh+rh, Math.max(ld, rd));
+        findDia(root);
+        return maxDia;
     }
-
-    public int findHeight(TreeNode root){
-        if(root==null) return 0;
+    
+    private int maxDia = 0;
+    
+    private int findDia(TreeNode root){
+        if (root == null) {
+            return 0;
+        }
+        int leftDepth = findDia(root.left);
+        int rightDepth = findDia(root.right);
         
-        return (Math.max(findHeight(root.left), findHeight(root.right))+1);
+        int currDia = leftDepth + rightDepth;
+        // we are comparing the currDia with maxDia
+        maxDia = Math.max(maxDia, currDia);
+
+
+        // we are returing the max open path
+        return 1 + Math.max(leftDepth, rightDepth); // pick one open path
     }
 }
