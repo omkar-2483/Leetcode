@@ -246,6 +246,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -339,6 +340,7 @@ DSA questions solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +348,7 @@ DSA questions solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,4 +363,9 @@ DSA questions solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
