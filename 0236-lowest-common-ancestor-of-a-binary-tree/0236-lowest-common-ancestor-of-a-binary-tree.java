@@ -28,10 +28,10 @@ class Solution {
         if(root==p) return true;
 
         boolean foundLeft= getPath(root.left, p, path);
+        if(foundLeft) return true;
         boolean foundRight= getPath(root.right, p, path);
-        if(foundLeft || foundRight){
-            return true;
-        }
+        if(foundRight)return true;
+        
         path.remove(path.size()-1);
         return false;
     }
