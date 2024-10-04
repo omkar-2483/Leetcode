@@ -132,6 +132,7 @@ DSA questions solved
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
@@ -174,6 +175,7 @@ DSA questions solved
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +358,7 @@ DSA questions solved
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +374,7 @@ DSA questions solved
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +406,7 @@ DSA questions solved
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -412,4 +417,5 @@ DSA questions solved
 | [0098-validate-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0450-delete-node-in-a-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
