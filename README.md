@@ -343,6 +343,7 @@ DSA questions solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/omkar-2483/DSA-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -358,6 +359,7 @@ DSA questions solved
 | [0100-same-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/omkar-2483/DSA-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -384,6 +386,7 @@ DSA questions solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/omkar-2483/DSA-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
