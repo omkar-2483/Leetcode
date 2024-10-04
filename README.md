@@ -14,6 +14,7 @@ DSA questions solved
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@ DSA questions solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
@@ -342,6 +344,7 @@ DSA questions solved
 | [0102-binary-tree-level-order-traversal](https://github.com/omkar-2483/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/omkar-2483/DSA-questions/tree/master/0199-binary-tree-right-side-view) |
@@ -385,6 +388,7 @@ DSA questions solved
 | [0102-binary-tree-level-order-traversal](https://github.com/omkar-2483/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/omkar-2483/DSA-questions/tree/master/0199-binary-tree-right-side-view) |
@@ -403,5 +407,6 @@ DSA questions solved
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
