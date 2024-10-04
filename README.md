@@ -357,6 +357,7 @@ DSA questions solved
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -373,6 +374,7 @@ DSA questions solved
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -405,6 +407,7 @@ DSA questions solved
 | [0543-diameter-of-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Function
@@ -417,5 +420,6 @@ DSA questions solved
 | [0098-validate-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/omkar-2483/DSA-questions/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
