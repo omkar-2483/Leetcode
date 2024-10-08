@@ -25,46 +25,27 @@
     // }
     // }
 
-public class Solution {
+class Solution {
     public int maxEvents(int[][] events) {
-        // Sort events by start time, and if equal, by end time
-        Arrays.sort(events, (a, b) -> {
-            if (a[0] == b[0]) {
-                return a[1] - b[1];  // Sort by end time if start time is equal
-            } else {
-                return a[0] - b[0];  // Sort by start time
+        int days = 0;
+        Arrays.sort(events, (a, b) -> a[0] - b[0]);
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> a - b);
+        int i = 0, res = 0;
+        while(i < events.length || !pq.isEmpty()) {
+            if(pq.isEmpty()) {
+                days = events[i][0];
             }
-        });
-
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        int day = 0, maxAttend = 0, i = 0;
-        int n = events.length;
-
-        // Process days from the start of the earliest event to the latest end time
-        for (day = 1; day <= 100000; day++) {
-            // Add all events that start on this day to the priority queue
-            while (i < n && events[i][0] == day) {
-                pq.offer(events[i][1]);  // Add the event's end time
+            while(i < events.length && events[i][0] <= days) {
+                pq.add(events[i][1]);
                 i++;
             }
-
-            // Remove events that have already ended (i.e., their end time is less than the current day)
-            while (!pq.isEmpty() && pq.peek() < day) {
+            if(!pq.isEmpty()) {
                 pq.poll();
+                days++;
+                res++;
             }
-
-            // Attend the event that ends the earliest (if any)
-            if (!pq.isEmpty()) {
-                pq.poll();
-                maxAttend++;
-            }
-
-            // Break if all events are processed and no further events can be attended
-            if (i == n && pq.isEmpty()) {
-                break;
-            }
-        }
-
-        return maxAttend;
+            while(!pq.isEmpty() && pq.peek() < days) pq.poll();
+        }    
+        return res;
     }
 }
