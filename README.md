@@ -34,6 +34,7 @@ DSA questions solved
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
 | [1306-minimum-absolute-difference](https://github.com/omkar-2483/DSA-questions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -98,6 +99,7 @@ DSA questions solved
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
 | [1306-minimum-absolute-difference](https://github.com/omkar-2483/DSA-questions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -180,6 +182,7 @@ DSA questions solved
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/omkar-2483/DSA-questions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/omkar-2483/DSA-questions/tree/master/0792-binary-search) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -197,6 +200,7 @@ DSA questions solved
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -226,6 +230,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
