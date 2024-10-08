@@ -36,6 +36,7 @@ DSA questions solved
 | [1306-minimum-absolute-difference](https://github.com/omkar-2483/DSA-questions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -101,6 +102,7 @@ DSA questions solved
 | [1306-minimum-absolute-difference](https://github.com/omkar-2483/DSA-questions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/omkar-2483/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -148,6 +150,7 @@ DSA questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/omkar-2483/DSA-questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
@@ -205,6 +208,7 @@ DSA questions solved
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
