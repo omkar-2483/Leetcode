@@ -22,6 +22,7 @@ DSA questions solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
@@ -198,6 +199,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -279,6 +281,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkar-2483/DSA-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -349,6 +352,7 @@ DSA questions solved
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
@@ -461,4 +465,8 @@ DSA questions solved
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/omkar-2483/DSA-questions/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
