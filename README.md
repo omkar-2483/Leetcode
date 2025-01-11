@@ -20,6 +20,7 @@ DSA questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
@@ -63,6 +64,7 @@ DSA questions solved
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
@@ -93,6 +95,7 @@ DSA questions solved
 | [0088-merge-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
@@ -131,6 +134,7 @@ DSA questions solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/omkar-2483/DSA-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -194,6 +198,7 @@ DSA questions solved
 | [0023-merge-k-sorted-lists](https://github.com/omkar-2483/DSA-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
