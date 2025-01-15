@@ -32,6 +32,7 @@ DSA questions solved
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/omkar-2483/DSA-questions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/omkar-2483/DSA-questions/tree/master/0932-monotonic-array) |
@@ -77,6 +78,7 @@ DSA questions solved
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
+| [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/omkar-2483/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
@@ -339,6 +341,7 @@ DSA questions solved
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/omkar-2483/DSA-questions/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0908-middle-of-the-linked-list) |
@@ -365,6 +368,7 @@ DSA questions solved
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/omkar-2483/DSA-questions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
@@ -481,6 +485,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
