@@ -72,6 +72,7 @@ DSA questions solved
 | [0141-linked-list-cycle](https://github.com/omkar-2483/DSA-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ DSA questions solved
 | [0014-longest-common-prefix](https://github.com/omkar-2483/DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
+| [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omkar-2483/DSA-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -371,6 +373,7 @@ DSA questions solved
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/omkar-2483/DSA-questions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
@@ -406,6 +409,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omkar-2483/DSA-questions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
 | ------- |
