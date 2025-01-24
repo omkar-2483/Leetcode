@@ -266,6 +266,7 @@ DSA questions solved
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/omkar-2483/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omkar-2483/DSA-questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -456,6 +457,7 @@ DSA questions solved
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omkar-2483/DSA-questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -468,6 +470,7 @@ DSA questions solved
 | [0617-merge-two-binary-trees](https://github.com/omkar-2483/DSA-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omkar-2483/DSA-questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -520,4 +523,8 @@ DSA questions solved
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/omkar-2483/DSA-questions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
