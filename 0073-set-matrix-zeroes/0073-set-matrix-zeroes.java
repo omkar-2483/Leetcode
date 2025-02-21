@@ -3,20 +3,21 @@ class Solution {
         int[] zeroRows=new int[matrix.length];
         int[] zeroColumn = new int[matrix[0].length];
 
-        for(int i=0; i<matrix.length; i++){
-            for(int j=0; j<matrix[0].length; j++){
+        int n=matrix.length;
+        int m=matrix[0].length;
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
                 if(matrix[i][j]==0){
                     zeroRows[i]=1;
                     zeroColumn[j]=1;
                 }
             }
         }
-        for(int i=0; i<zeroRows.length; i++){
-            if(zeroRows[i]==1) matrix[i] = new int[matrix[i].length];
-        }
-        for(int j=0; j<zeroColumn.length; j++){
-            if(zeroColumn[j]==1) {
-                for(int i=0; i<matrix.length; i++){
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(zeroRows[i]==1 || zeroColumn[j]==1){
                     matrix[i][j]=0;
                 }
             }
