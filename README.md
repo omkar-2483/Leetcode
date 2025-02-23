@@ -12,6 +12,7 @@ DSA questions solved
 | [0039-combination-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omkar-2483/DSA-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -174,6 +175,7 @@ DSA questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +239,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/omkar-2483/DSA-questions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
