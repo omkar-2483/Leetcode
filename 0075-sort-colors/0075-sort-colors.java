@@ -1,6 +1,24 @@
 class Solution {
     public void sortColors(int[] nums) {
-        heapSort(nums);
+        //heapSort(nums);  // O(N * logN)
+        countSort(nums);  //O(N)
+    }
+
+    private void countSort(int[] arr){
+        int[] count = new int[3];
+        for(int i: arr) count[i]++;
+
+        for(int i=0; i<arr.length; i++){
+            if(count[0]!=0){ 
+                arr[i]=0;
+                count[0]--;
+            }
+            else if(count[1]!=0){ 
+                arr[i]=1;
+                count[1]--;
+            }
+            else arr[i]=2;
+        }
     }
 
     private void heapSort(int[] arr){
@@ -34,4 +52,5 @@ class Solution {
             heapify(arr, maxIdx, n);
         }
     }
+
 }
