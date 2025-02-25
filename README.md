@@ -13,6 +13,7 @@ DSA questions solved
 | [0039-combination-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omkar-2483/DSA-questions/tree/master/0075-sort-colors) |
@@ -149,6 +150,7 @@ DSA questions solved
 | ------- |
 | [0007-reverse-integer](https://github.com/omkar-2483/DSA-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/omkar-2483/DSA-questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
@@ -295,6 +297,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
