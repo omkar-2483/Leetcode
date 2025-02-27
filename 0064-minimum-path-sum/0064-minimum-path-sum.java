@@ -1,5 +1,5 @@
 class Solution {
-    public int minPathSum2(int[][] grid) {
+    public int minPathSum(int[][] grid) {
         //pathSum[i][j] = grid[i][j] + Math.min(pathSum[i+1][j], pathSum[i][j+1])
         int m=grid.length, n=grid[0].length;
         int[][] pathSum = new int[m][n];
@@ -20,7 +20,7 @@ class Solution {
 
 
     //space optimization -- we use curr row and prev row
-    public int minPathSum(int[][] grid) {
+    public int minPathSum2(int[][] grid) {
         //pathSum[i][j] = grid[i][j] + Math.min(pathSum[i+1][j], pathSum[i][j+1])
         int m=grid.length, n=grid[0].length;
         int[] prev = new int[n];
