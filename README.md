@@ -30,6 +30,7 @@ DSA questions solved
 | [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
@@ -189,6 +190,7 @@ DSA questions solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0213-house-robber-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/omkar-2483/DSA-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
