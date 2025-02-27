@@ -566,4 +566,8 @@ DSA questions solved
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/omkar-2483/DSA-questions/tree/master/1706-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/omkar-2483/DSA-questions/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
