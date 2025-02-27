@@ -1,22 +1,27 @@
 class Solution {
     public int rob(int[] nums) {
-        //recursion
-        //maxSum(i) =nums[i]+ max(maxSum(i+2), maxSum(i+3)) 
-
-        int n=nums.length;
-        if(n==1) return nums[0];
-        if(n==2) return Math.max(nums[0],nums[1]);
-        if(n==3) return Math.max(nums[0]+nums[2], nums[1]);
+        //recursion include or exclude home i
+        //maxSum(i) =max(nums[i]+maxSum(i-2), maxSum(i-1)) 
+        // or maxSum(i)= max(nums[i]+maxSum(i+2), maxSum(i+1))
 
         //dp[i] stores maxSum at house i
-        int[] dp = new int[n];
-        dp[n-1]=nums[n-1];
-        dp[n-2]=nums[n-2];
-        dp[n-3]=nums[n-3]+nums[n-1];
+        int[] dp = new int[nums.length];
 
-        for(int i=n-4; i>=0; i--){
-            dp[i]=nums[i]+Math.max(dp[i+2], dp[i+3]);
+        if(nums.length==1) return nums[0]; //if only one home
+        dp[0]=nums[0];
+        dp[1]=Math.max(nums[0], nums[1]);
+
+        for(int i=2; i<nums.length; i++){
+            dp[i] = Math.max(nums[i]+dp[i-2], dp[i-1]);
         }
-        return Math.max(dp[0], dp[1]);
+        return dp[nums.length-1];
     }
+
+    
+
+    // public int rob(int[] nums) {
+    //     //space optimization
+        
+
+    // }
 }
