@@ -17,6 +17,7 @@ DSA questions solved
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omkar-2483/DSA-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkar-2483/DSA-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -188,6 +189,7 @@ DSA questions solved
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/omkar-2483/DSA-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0119-pascals-triangle-ii) |
@@ -311,6 +313,7 @@ DSA questions solved
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
