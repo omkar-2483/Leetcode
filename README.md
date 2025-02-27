@@ -154,6 +154,7 @@ DSA questions solved
 | [0009-palindrome-number](https://github.com/omkar-2483/DSA-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
@@ -181,6 +182,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -331,6 +333,7 @@ DSA questions solved
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
