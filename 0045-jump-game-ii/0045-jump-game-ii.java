@@ -22,15 +22,15 @@ class Solution {
     }
     
 
-    private int findMin(int[] nums, int idx){
-        if(idx==nums.length-1) return 0;
+    // private int findMin(int[] nums, int idx){
+    //     if(idx==nums.length-1) return 0;
 
-        int minJumps=1000;
+    //     int minJumps=1000;
 
-        if(idx>=nums.length || nums[idx]==0) return minJumps;
-        for(int i=nums[idx]; i>0; i--){
-            minJumps = Math.min(minJumps, findMin(nums, idx+i));
-        }
-        return 1+minJumps;
-    }
+    //     if(idx>=nums.length || nums[idx]==0) return minJumps;
+    //     for(int i=nums[idx]; i>0; i--){
+    //         minJumps = Math.min(minJumps, findMin(nums, idx+i));
+    //     }
+    //     return 1+minJumps;
+    // }
 }
