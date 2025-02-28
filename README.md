@@ -15,6 +15,7 @@ DSA questions solved
 | [0046-permutations](https://github.com/omkar-2483/DSA-questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/omkar-2483/DSA-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0064-minimum-path-sum) |
@@ -188,6 +189,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/omkar-2483/DSA-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0064-minimum-path-sum) |
@@ -207,6 +209,7 @@ DSA questions solved
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
