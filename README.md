@@ -28,6 +28,7 @@ DSA questions solved
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
@@ -201,6 +202,7 @@ DSA questions solved
 | [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
