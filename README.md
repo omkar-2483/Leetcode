@@ -40,6 +40,7 @@ DSA questions solved
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -141,6 +142,7 @@ DSA questions solved
 | [0215-kth-largest-element-in-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
@@ -312,6 +314,7 @@ DSA questions solved
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
 ## Graph
 |  |
