@@ -44,6 +44,7 @@ DSA questions solved
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
@@ -100,6 +101,7 @@ DSA questions solved
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
@@ -177,6 +179,7 @@ DSA questions solved
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/omkar-2483/DSA-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1013-fibonacci-number) |
@@ -446,6 +449,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/omkar-2483/DSA-questions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/omkar-2483/DSA-questions/tree/master/0859-design-circular-deque) |
@@ -616,4 +620,8 @@ DSA questions solved
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/omkar-2483/DSA-questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/omkar-2483/DSA-questions/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/omkar-2483/DSA-questions/tree/master/2087-confirmation-rate) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
