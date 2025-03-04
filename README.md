@@ -31,6 +31,7 @@ DSA questions solved
 | [0120-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkar-2483/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/omkar-2483/DSA-questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
@@ -229,6 +230,7 @@ DSA questions solved
 | [0045-jump-game-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/omkar-2483/DSA-questions/tree/master/0134-gas-station) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
