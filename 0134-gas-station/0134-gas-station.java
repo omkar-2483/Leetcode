@@ -1,8 +1,5 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-// If the total gas available is less than the total cost needed, completing the circuit is impossible
-//if total gas > total cost find starting index
-
         int totalGas = 0;    // Total gas available
         int totalCost = 0;   // Total cost required
         int tank = 0;        // Current gas in the tank
