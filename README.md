@@ -606,6 +606,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/omkar-2483/DSA-questions/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/omkar-2483/DSA-questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/omkar-2483/DSA-questions/tree/master/0577-employee-bonus) |
 | [0608-tree-node](https://github.com/omkar-2483/DSA-questions/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/omkar-2483/DSA-questions/tree/master/0620-not-boring-movies) |
