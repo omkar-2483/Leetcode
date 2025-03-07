@@ -48,6 +48,7 @@ DSA questions solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -217,6 +218,7 @@ DSA questions solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/omkar-2483/DSA-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
