@@ -188,6 +188,7 @@ DSA questions solved
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/omkar-2483/DSA-questions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/omkar-2483/DSA-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
@@ -368,6 +369,7 @@ DSA questions solved
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/omkar-2483/DSA-questions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/omkar-2483/DSA-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
