@@ -1,16 +1,11 @@
 public class Solution {
     // you need treat n as an unsigned value
     public int reverseBits(int n) {
-        int ans=0;
-        int shifts =31;
-        while(n !=0){
-            int bit;
-            if((n & 1)==0) bit=0;
-            else bit=1;
-
-            ans = ans | (bit << shifts);
-            n = n >>> 1;
-            shifts--;
+        int ans = 0;
+        for (int i = 0; i < 32; i++) {
+            int bit = (n & 1); 
+            ans = ans | (bit << (31 - i));
+            n = n >>> 1;  // Logical right shift (fills left bits with 0)
         }
         return ans;
     }
