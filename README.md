@@ -226,6 +226,7 @@ DSA questions solved
 | [0152-maximum-product-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/omkar-2483/DSA-questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -368,6 +369,7 @@ DSA questions solved
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/omkar-2483/DSA-questions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
