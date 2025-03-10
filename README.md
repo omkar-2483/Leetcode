@@ -7,6 +7,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/omkar-2483/DSA-questions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/omkar-2483/DSA-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/omkar-2483/DSA-questions/tree/master/0036-valid-sudoku) |
@@ -235,6 +236,7 @@ DSA questions solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omkar-2483/DSA-questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -256,6 +258,7 @@ DSA questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omkar-2483/DSA-questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omkar-2483/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/omkar-2483/DSA-questions/tree/master/0031-next-permutation) |
