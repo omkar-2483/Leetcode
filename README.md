@@ -46,6 +46,7 @@ DSA questions solved
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/omkar-2483/DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ DSA questions solved
 | [0217-contains-duplicate](https://github.com/omkar-2483/DSA-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -154,6 +156,7 @@ DSA questions solved
 | [0217-contains-duplicate](https://github.com/omkar-2483/DSA-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -186,6 +189,7 @@ DSA questions solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/omkar-2483/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/omkar-2483/DSA-questions/tree/master/0371-sum-of-two-integers) |
@@ -288,6 +292,7 @@ DSA questions solved
 | [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -368,6 +373,7 @@ DSA questions solved
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/omkar-2483/DSA-questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/omkar-2483/DSA-questions/tree/master/0342-power-of-four) |
