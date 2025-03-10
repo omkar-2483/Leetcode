@@ -1,6 +1,6 @@
 class Solution {
     //brute force
-    public int maxProduct(int[] nums) {
+    public int maxProduct2(int[] nums) {
         int result=nums[0];
         for(int i=0; i<nums.length; i++){
             int curProd = nums[i];
@@ -14,27 +14,23 @@ class Solution {
     }
 
 //optimised
-    public int maxProduct2(int[] nums) {
-        int prefix = 1;
-        int suffix = 1;
-        int max = nums[0];
+    public int maxProduct(int[] nums) {
+        int prefix = 1, suffix = 1;
+        int result = Integer.MIN_VALUE;
+        int n=nums.length;
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 0; i < n; i++) {
             if (prefix == 0) {
                 prefix = 1;
             }
-            prefix = prefix * nums[i];
-            max = Math.max(max,prefix);
-        }
-
-        for (int i = nums.length - 1; i >= 0; i--) {
             if (suffix == 0) {
                 suffix = 1;
             }
-            suffix = suffix * nums[i];
-            max = Math.max(max,suffix);
+            prefix *= nums[i];
+            suffix *= nums[n-1-i];
+            result = Math.max(result,Math.max(prefix, suffix));
         }
-        return max;
+        return result;
 
     }
 }
