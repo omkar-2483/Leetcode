@@ -35,6 +35,7 @@ DSA questions solved
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/omkar-2483/DSA-questions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/omkar-2483/DSA-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/omkar-2483/DSA-questions/tree/master/0198-house-robber) |
@@ -280,6 +281,7 @@ DSA questions solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkar-2483/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/omkar-2483/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
