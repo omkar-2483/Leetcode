@@ -55,6 +55,7 @@ DSA questions solved
 | [0380-insert-delete-getrandom-o1](https://github.com/omkar-2483/DSA-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -162,6 +163,7 @@ DSA questions solved
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/omkar-2483/DSA-questions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/0948-sort-an-array) |
@@ -233,6 +235,7 @@ DSA questions solved
 | [0213-house-robber-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/omkar-2483/DSA-questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
@@ -248,6 +251,7 @@ DSA questions solved
 | [0055-jump-game](https://github.com/omkar-2483/DSA-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/omkar-2483/DSA-questions/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/omkar-2483/DSA-questions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1285-balance-a-binary-search-tree](https://github.com/omkar-2483/DSA-questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omkar-2483/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
