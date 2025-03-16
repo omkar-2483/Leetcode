@@ -148,6 +148,7 @@ DSA questions solved
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/omkar-2483/DSA-questions/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/omkar-2483/DSA-questions/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/omkar-2483/DSA-questions/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/omkar-2483/DSA-questions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
