@@ -84,6 +84,7 @@ DSA questions solved
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/omkar-2483/DSA-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -212,6 +213,7 @@ DSA questions solved
 | [1236-n-th-tribonacci-number](https://github.com/omkar-2483/DSA-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omkar-2483/DSA-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/omkar-2483/DSA-questions/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/omkar-2483/DSA-questions/tree/master/3321-type-of-triangle) |
