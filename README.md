@@ -61,6 +61,7 @@ DSA questions solved
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/omkar-2483/DSA-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omkar-2483/DSA-questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/omkar-2483/DSA-questions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/omkar-2483/DSA-questions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/omkar-2483/DSA-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/omkar-2483/DSA-questions/tree/master/0817-design-hashmap) |
@@ -273,6 +274,7 @@ DSA questions solved
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/omkar-2483/DSA-questions/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -490,6 +492,7 @@ DSA questions solved
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/omkar-2483/DSA-questions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/omkar-2483/DSA-questions/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/omkar-2483/DSA-questions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omkar-2483/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
