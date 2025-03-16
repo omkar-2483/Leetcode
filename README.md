@@ -140,6 +140,7 @@ DSA questions solved
 | [0242-valid-anagram](https://github.com/omkar-2483/DSA-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omkar-2483/DSA-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/omkar-2483/DSA-questions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omkar-2483/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/omkar-2483/DSA-questions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/omkar-2483/DSA-questions/tree/master/3194-find-words-containing-character) |
@@ -289,6 +290,7 @@ DSA questions solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/omkar-2483/DSA-questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/omkar-2483/DSA-questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
