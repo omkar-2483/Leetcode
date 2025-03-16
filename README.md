@@ -85,6 +85,7 @@ DSA questions solved
 | [1706-min-cost-to-connect-all-points](https://github.com/omkar-2483/DSA-questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/omkar-2483/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1767-design-front-middle-back-queue](https://github.com/omkar-2483/DSA-questions/tree/master/1767-design-front-middle-back-queue) |
+| [1791-richest-customer-wealth](https://github.com/omkar-2483/DSA-questions/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/omkar-2483/DSA-questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omkar-2483/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -393,6 +394,7 @@ DSA questions solved
 | [0967-minimum-falling-path-sum](https://github.com/omkar-2483/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/omkar-2483/DSA-questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/omkar-2483/DSA-questions/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/omkar-2483/DSA-questions/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
