@@ -141,6 +141,7 @@ DSA questions solved
 | [0014-longest-common-prefix](https://github.com/omkar-2483/DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkar-2483/DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/omkar-2483/DSA-questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/omkar-2483/DSA-questions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/omkar-2483/DSA-questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/omkar-2483/DSA-questions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/omkar-2483/DSA-questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -202,6 +203,7 @@ DSA questions solved
 | [0050-powx-n](https://github.com/omkar-2483/DSA-questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/omkar-2483/DSA-questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/omkar-2483/DSA-questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/omkar-2483/DSA-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/omkar-2483/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkar-2483/DSA-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
@@ -274,6 +276,7 @@ DSA questions solved
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/omkar-2483/DSA-questions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/omkar-2483/DSA-questions/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/omkar-2483/DSA-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/omkar-2483/DSA-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -393,6 +396,7 @@ DSA questions solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/omkar-2483/DSA-questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/omkar-2483/DSA-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/omkar-2483/DSA-questions/tree/master/0191-number-of-1-bits) |
