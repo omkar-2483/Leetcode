@@ -49,6 +49,7 @@ DSA questions solved
 | [0239-sliding-window-maximum](https://github.com/omkar-2483/DSA-questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/omkar-2483/DSA-questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/omkar-2483/DSA-questions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omkar-2483/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,6 +289,7 @@ DSA questions solved
 | [0148-sort-list](https://github.com/omkar-2483/DSA-questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/omkar-2483/DSA-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/omkar-2483/DSA-questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/omkar-2483/DSA-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/omkar-2483/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/omkar-2483/DSA-questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/omkar-2483/DSA-questions/tree/master/0349-intersection-of-two-arrays) |
